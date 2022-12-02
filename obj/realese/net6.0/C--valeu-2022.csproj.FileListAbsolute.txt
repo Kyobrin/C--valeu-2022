@@ -1,0 +1,15 @@
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\C--valeu-2022.exe
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\C--valeu-2022.deps.json
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\C--valeu-2022.runtimeconfig.json
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\C--valeu-2022.dll
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\ref\C--valeu-2022.dll
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\C--valeu-2022.pdb
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.csproj.AssemblyReference.cache
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.AssemblyInfoInputs.cache
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.AssemblyInfo.cs
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.csproj.CoreCompileInputs.cache
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.dll
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\ref\C--valeu-2022.dll
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.pdb
+C:\Users\Lab0-00\C--valeu-2022\obj\realese\net6.0\C--valeu-2022.genruntimeconfig.cache

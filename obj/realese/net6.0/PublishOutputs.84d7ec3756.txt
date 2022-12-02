@@ -1,0 +1,5 @@
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\publish\C--valeu-2022.exe
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\publish\C--valeu-2022.dll
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\publish\C--valeu-2022.deps.json
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\publish\C--valeu-2022.runtimeconfig.json
+C:\Users\Lab0-00\C--valeu-2022\bin\realese\net6.0\publish\C--valeu-2022.pdb
