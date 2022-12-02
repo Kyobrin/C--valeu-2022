@@ -3,7 +3,7 @@ aplicação criada atraves dos computadores da etec adolpho berezin.
 2o semestre de 2022.
 
 ## Manual
-1. Faça o download do software [aqui]https://github.com/Kyobrin/C--valeu-2022/blob/main/C--valeu-2022.zip
+1. Faça o download do software [aqui](https://github.com/Kyobrin/C--valeu-2022/blob/main/C--valeu-2022.zip)
 1. Extraia o conteudo do arquivo.
 1. Execute o programa:
     1. `dotnet C--valeu-2022.dll`
